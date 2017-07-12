@@ -1,0 +1,159 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #8DC4FA;
+}
+
+.table {
+	width: 963px;
+	margin-left: 200px;
+	margin-top: 100px;
+	background-image: url(../img/swirl.png);
+}
+
+.idger {
+	font-style: oblique;
+	border-bottom: 1px solid #ddd;
+	width: 954px;
+}
+
+
+/*昵称*/
+
+.item {
+	padding-left: 30px;
+}
+
+.new_txt1 {
+	border-radius: 5px;
+	border: 1px solid #DBDBDB;
+	width: 284px;
+	height: 32px;
+}
+
+
+/*密码*/
+
+.passwords {
+	padding-left: 30px;
+	margin-top: 50px;
+}
+
+#password1 {
+	border-radius: 5px;
+	border: 1px solid #DBDBDB;
+	width: 284px;
+	height: 32px;
+	margin-top: 10px;
+}
+
+
+/*确认密码*/
+
+.itemm {
+	 
+}
+
+#passwordm {
+	border-radius: 5px;
+	border: 1px solid #DBDBDB;
+	width: 284px;
+	height: 32px;
+	margin-top: 10px;
+}
+
+
+/*性别*/
+
+.sex {
+	 padding-left: 30px;
+	margin-top: 20px;
+}
+
+.teml {
+	 
+}
+
+.tlfnamber {
+	border-radius: 5px;
+	border: 1px solid #DBDBDB;
+	width: 284px;
+	height: 32px;
+	margin-top: 10px;
+}
+
+.number {
+	border-radius: 5px;
+	border: 1px solid #DBDBDB;
+	width: 284px;
+	height: 32px;
+	margin-top: 10px;
+	 margin-left: 66px;
+}
+
+.sd {
+	border-radius: 5px;
+	border: 1px solid #DBDBDB;
+	width: 100px;
+	height: 32px;
+	margin-top: 10px;
+}
+
+#submit {
+	border-radius: 5px;
+	border: 1px solid #DBDBDB;
+	width: 284px;
+	height: 50px;
+	margin-top: 10px;
+	 margin-left: 66px;
+}
+
+.fsa {
+	margin-top: 10px;
+	 margin-left: 66px;
+}
+
+.asd {
+	 margin-left: 66px;
+}
+
+
+/*
+ 
+
+
+.box {
+	float: left;
+	padding-left: 130px;
+	padding-top: 20px;
+}
+
+.new_txt {
+	
+}
+
+.box box_4 {
+	float: left;
+	padding-left: 130px;
+	padding-top: 20px;
+}
+
+.w {
+	border-radius: 5px;
+	border: 1px solid #DBDBDB;
+	width: 284px;
+	height: 18px;
+}
+
+.box box_5 {
+	float: left;
+	padding-left: 230px;
+	padding-top: 50px;
+}
+
+.q {
+	border-radius: 5px;
+	border: 1px solid #DBDBDB;
+	width: 284px;
+	height: 18px;
+}*/
